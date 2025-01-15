@@ -1,6 +1,3 @@
-// AYAN GUPTA
-// B00962542
-
 // This class represents the pair of Letters and their probabilities.
 public class Pair implements Comparable<Pair> {
     private char value;
