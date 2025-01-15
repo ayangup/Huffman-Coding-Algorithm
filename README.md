@@ -1,4 +1,4 @@
-##Huffman Coding Algorithm Project##
+## Huffman Coding Algorithm Project ##
 
 #Overview
 This project implements the Huffman Coding Algorithm using the Binary Tree data structure. The goal of the project is to demonstrate the principles of efficient text compression through encoding and decoding based on character probabilities. It reads a file containing character-probability pairs, constructs a Huffman tree, and allows the user to encode and decode text messages in uppercase letters.
