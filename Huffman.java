@@ -1,5 +1,3 @@
-// AYAN GUPTA
-// B00962542
 // To read from the file, when the code prompts the user to enter the name of the file then enter LettersProbability.txt
 
 import java.io.*;
